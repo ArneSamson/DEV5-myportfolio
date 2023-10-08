@@ -1,4 +1,4 @@
-# lAB 1 - Islands
+# lAB 2 - Islands
 
 [REPO](https://github.com/ArneSamson/DEV5---LAB2/tree/main)
 <br>
