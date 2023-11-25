@@ -1,4 +1,4 @@
-# lAB 6 - WebSockets
+# LAB 6 - WebSockets
 
 [REPO FRONTEND](https://github.com/ArneSamson/DEV5-LAB6-FRONTEND/tree/main)
 <br>
